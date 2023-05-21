@@ -1,4 +1,4 @@
-# Problems Solved
+## Problems Solved
 
 ### 1. Leetcode 705: Design HashSet  
 
