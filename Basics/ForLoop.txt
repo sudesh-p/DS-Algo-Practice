@@ -1,0 +1,9 @@
+For Loops are used to repeteadly execute a bunch of code.
+A For Loop consists of 3 phases:
+    - Initialization ( Eg: int i=1)
+    - Termination Condition (Eg: i<=10)
+    - Change Condition (i++/i--)
+However in case of Python, we have range based for loops as well.
+    Eg: for x in range(some_range) --> [0,n)
+We can also use in operator in case of Python to traverse within an object.
+    Eg: for x in 'SOME_OBJECT'

@@ -1,0 +1,6 @@
+1. Arrays are like Containers of Elements.
+2. They can be 1D,2D or 3D depending on how we plan to use them.
+3. In langauges like Python they can be a mix of different data types (in case of Lists)
+or same types (in actual Array).
+4. We make heavy use of 2D Arrays/Lists as Matrix and Graphs.
+5. Arrays are 0-indexed.

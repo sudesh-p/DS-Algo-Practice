@@ -1,0 +1,6 @@
+Functions:
+    - Set of Code which performs something for you.
+    - Used to Modularize Code.
+    - Used to Increase Readability.
+    - Used to run same code multiple times.
+    - May be parameterized or non-parameterized.
