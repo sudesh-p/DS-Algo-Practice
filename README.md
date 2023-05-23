@@ -3,4 +3,4 @@ This Repository contains the entire DSA Practice I did over Summer 2023 for Inte
 
 Day 1 : Basics  
 Day 2 : Patterns  
-Day 3 : Fundamental Data Structures  
+Day 3 and 4: Fundamental Data Structures (Design)
