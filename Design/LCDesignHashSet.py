@@ -1,4 +1,4 @@
-NUM_BUCKETS = 37
+NUM_BUCKETS = 32783
 
 class MyHashSet:
 
