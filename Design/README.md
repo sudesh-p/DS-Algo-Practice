@@ -1,4 +1,4 @@
-# Problems Solved [2 : 1E, 1M]
+# Problems Solved [3 : 1E, 2M]
 
 ### 1. [Leetcode 705: Design HashSet](https://leetcode.com/problems/design-hashset/) [EASY]
 
