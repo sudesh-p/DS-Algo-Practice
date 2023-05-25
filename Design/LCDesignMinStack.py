@@ -1,3 +1,8 @@
+# TC: O(1)
+# SC: O(N) Auxillary List to store Previous Mins
+# Did it work on LC : Yes
+# Personal Difficulty while solving it: Referred how stacks are implemented in Python.
+
 class MinStack:
 
     def __init__(self):

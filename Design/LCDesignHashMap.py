@@ -1,3 +1,8 @@
+# TC: O(1)
+# SC: O(Sq.Root(N)) #Used Double Hashing and DS inside DS [Array in Array]
+# Did it work on LC : Yes.
+# Personal Difficulty while solving it: Revised concept of DS in DS and Double Hashing.
+
 class MyHashMap:
 
     def __init__(self):

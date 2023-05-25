@@ -1,3 +1,7 @@
+# TC: O(1) Push and Empty , Amortized O(1) for Pop
+# SC: O(1) No auxillary DS used
+# Did it work on LC : Yes.
+# Personal Difficulty while solving it: Still understanding how Pop is Amortized O(1)
 class MyQueue:
 
     def __init__(self):
